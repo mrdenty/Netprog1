@@ -1,0 +1,14 @@
+name
+
+*.o
+
+*.tmp
+*.temp
+
+*~          
+*.swp       
+.DS_Store   
+Thumbs.db   
+
+build/
+bin/
